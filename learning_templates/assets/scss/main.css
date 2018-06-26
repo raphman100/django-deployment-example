@@ -1,0 +1,42 @@
+.panel, .little-panel, .big-panel {
+  border: 3px solid dodgerblue;
+  background: #eea571;
+  margin: 10px; }
+
+.little-panel {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 5px; }
+
+.big-panel {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px;
+  font-size: 32px;
+  padding: 20px; }
+
+.button, .jumbo-button, .light-button {
+  background: #006699;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  border-radius: 8px;
+  color: #ffffff;
+  display: inline-block;
+  padding: 5px;
+  text-decoration: none;
+  cursor: hand; }
+
+.jumbo-button {
+  padding: 35px; }
+  .jumbo-button:hover {
+    background: #0099e6; }
+
+.light-button {
+  background: #0099e6; }
+
+/*# sourceMappingURL=main.css.map */

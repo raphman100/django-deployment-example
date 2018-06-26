@@ -1,0 +1,23 @@
+// scss stylesheet
+
+$green:       #0ea845;
+$primary:     $green;
+$link-color:  $green;
+$body-bg:     #1a1b1d;
+
+.bf-bg {
+  background-color: $body-bg;
+  width: 100%;
+  h1 {
+    color: $green;
+  }
+
+  .bf-header-bg {
+    background-color: $green;
+  }
+
+  .text-label {
+    color: $green;
+  }
+}
+
